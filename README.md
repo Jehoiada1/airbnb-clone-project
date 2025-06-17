@@ -2,7 +2,7 @@
 ## Team Roles
 | Name              | Role                     | Responsibilities                          |
 |-------------------|--------------------------|--------------------------------------------|
-| Yodahe Eshetu     | Backend Developmer       |     |
+| Yodahe Eshetu     | Backend Developmer       |  API creation, database design, auth logic   |
 
 ## Technology Stack
 
